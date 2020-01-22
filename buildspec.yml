@@ -7,4 +7,6 @@ phases:
       - dotnet build
 artifacts:
   files:
-    name: helloworld_01
+   - '**/*'
+  name: helloworld_01 
+   
